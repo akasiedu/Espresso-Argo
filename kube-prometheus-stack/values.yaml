@@ -2902,7 +2902,7 @@ prometheus:
 
     ## Service type
     ##
-    type: ClusterIP
+    type: NodePort
 
     ## Additional ports to open for Prometheus service
     ##
